@@ -36,7 +36,7 @@
 
 ### Animated Image
 
-![winky peace](https://media.giphy.com/media/dk3TmFZpn6pUI/giphy.gif)
+![Love you](https://media.giphy.com/media/OiCdmDO2221Ww/giphy.gif)
 
   
 ```javascript
