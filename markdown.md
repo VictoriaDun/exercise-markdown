@@ -38,6 +38,9 @@
 
 ![winky peace](https://media.giphy.com/media/dk3TmFZpn6pUI/giphy.gif)
 
-\*<scipt type="text/javascript">
+  
+```javascript
+<script type="text/javascript">
 	alert("Hello you!");
-</script>\*
+</script>` 
+```
