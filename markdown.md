@@ -20,10 +20,10 @@
 ### List Mixed
 
 1. Blablabla
-	*hello World
-	*hello alliens
+	* hello World
+	* hello alliens
 2. Bliblibli
-	*sorry no ideas
+	* sorry no ideas
 
 ### Links
 
