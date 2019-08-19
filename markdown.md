@@ -27,7 +27,7 @@
 
 ### Links
 
-[MarkDown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+[MarkDown cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)  
 [ReadMe](https://github.com/VictoriaDun/exercise-markdown/blob/master/README.md)
 
 ### Image
